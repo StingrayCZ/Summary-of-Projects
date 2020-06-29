@@ -33,6 +33,11 @@ Overview of my everyday activity for MCAE Systems (employer). (see <a href="http
 ### TLD JET-16 Airport Tractor (time limited contract, 2016)
 Welding assembly of the airport truck vehicle. (see <a href="https://github.com/StingrayCZ/Airport-Ground-Support-Vehicle/blob/master/README.md"> here</a>)
 
+<p float="left">
+  <img src="/Folder/tractor.png" width="400" /> 
+</p>
+
+
 ### Building Facade Superstructure (Solid Vision/Sipral, 2015)
 Cooperaton project to create 3D CAD data for manufacturing frames from aluminium alloy fror application as facade of building. (see <a href="https://github.com/StingrayCZ/Building-Facade-Superstructure/blob/master/README.md"> here</a>)
 
