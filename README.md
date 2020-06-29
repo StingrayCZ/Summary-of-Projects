@@ -4,6 +4,9 @@ This repository contains briefly overwiev of some projetcts what I have done ove
 ## Mechanical engineering section
 
 ### Special Industrial Rack (Erba Lachema, 2019)
+<p float="left">
+  <img src="/Pictures (general)/PostApplication/1.png" width="800" /> 
+<p float="
 
 ### Special Industrial Rack (Erba Lachema, 2019)
 
@@ -11,3 +14,7 @@ This repository contains briefly overwiev of some projetcts what I have done ove
 Where I would like to introduce my bachelor thehsis. My first larger programming project. This project is still uncomplided but active and will be finished to end of August 2020.
 
 The main task of my thesis is proposal the security of communication in the IoT wireless network. This network is designated for small lowpower devices, like a sensors and trivial actuators. The introduced version is just concept. Although that is full-operational, but provided security level is not suitable real-life use.
+
+<p float="left">
+  <img src="/Summary-of-Projects/Folder/FlowPic.png" width="800" /> 
+<p float="
