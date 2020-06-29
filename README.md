@@ -6,6 +6,10 @@ This repository contains briefly overwiev of some projetcts what I have done ove
 ### Special Industrial Rack (Erba Lachema, 2019 - 2020)
 The special rack for storing parts from metal sheets. (see <a href="https://github.com/StingrayCZ/Special-Industrial-Rack/blob/master/README.md"> here</a>)
 
+<p float="left">
+  <img src="Special-Industrial-Rack/Picture/SuperRack_1.PNG" width="800" /> 
+</p>
+
 ### Medical Instrument Assembly Building (Erba Lachema, 2019 - 2020)
 Proposal layout of the manufacturing complex (assembly lines, offices, workshops, cloakrooms, warehouse). (see <a href="https://github.com/StingrayCZ/Medical-Instrument-Assembly-Building/blob/master/README.md"> here</a>)
 
@@ -31,6 +35,6 @@ The main task of my thesis (see  <a href="https://github.com/StingrayCZ/Summary-
 
 <p float="left">
   <img src="/Folder/FlowPic.png" width="800" /> 
-<p float="
+</p>
           
           
