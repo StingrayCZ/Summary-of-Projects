@@ -14,7 +14,7 @@ The special rack for storing parts from metal sheets. (see <a href="https://gith
 Proposal layout of the manufacturing complex (assembly lines, offices, workshops, cloakrooms, warehouse). (see <a href="https://github.com/StingrayCZ/Medical-Instrument-Assembly-Building/blob/master/README.md"> here</a>)
 
 <p float="left">
-  <img src="/Folder/VAB.png" width="400" /> 
+  <img src="/Folder/VAB.png" width="600" /> 
 </p>
 
 ### Bench for Testing Component (Erba Lachema, 2019 - 2020)
