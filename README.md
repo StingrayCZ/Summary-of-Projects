@@ -1,5 +1,5 @@
 # Summary of Projects
-This repository contains briefly overwiev of some projetcts what I have done over time. Due to the fact, that I  this respositoru is splitted to [Mechanical section](#header) and [ITC section](#header). For more information don't hesitate click on highlighted links. 
+This repository contains briefly overwiev of some projetcts what I have done over time. Due to this fact, that overview was splitted to [Mechanical](#header) and [ITC](#header) section. For more information don't hesitate click on highlighted links. 
 
 ## Mechanical engineering section
 
