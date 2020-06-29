@@ -17,7 +17,7 @@ Proposal layout of the manufacturing complex (assembly lines, offices, workshops
 This bench is used for testing and adjust subassemblies.  (see <a href="https://github.com/StingrayCZ/Bench-for-Testing-Component/blob/master/README.md"> here</a>)
 
 <p float="left">
-  <img src="/Folder/Bench.png" width="400" /> 
+  <img src="/Folder/Bench.PNG" width="400" /> 
 </p>
 
 ### Spoiler for the Lotus car (MCAE Systems, 2018)
