@@ -7,7 +7,7 @@ This repository contains briefly overwiev of some projetcts what I have done ove
 The special rack for storing parts from metal sheets. (see <a href="https://github.com/StingrayCZ/Special-Industrial-Rack/blob/master/README.md"> here</a>)
 
 <p float="left">
-  <img src="Special-Industrial-Rack/Picture/SuperRack_1.PNG" width="800" /> 
+  <img src="/Folder/Rack.png" width="800" /> 
 </p>
 
 ### Medical Instrument Assembly Building (Erba Lachema, 2019 - 2020)
