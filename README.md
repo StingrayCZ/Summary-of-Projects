@@ -34,7 +34,7 @@ Overview of my everyday activity for MCAE Systems (employer). (see <a href="http
 Welding assembly of the airport truck vehicle. (see <a href="https://github.com/StingrayCZ/Airport-Ground-Support-Vehicle/blob/master/README.md"> here</a>)
 
 <p float="left">
-  <img src="/Folder/tractor.png" width="400" /> 
+  <img src="/Folder/tractor.png" width="600" /> 
 </p>
 
 
@@ -42,7 +42,7 @@ Welding assembly of the airport truck vehicle. (see <a href="https://github.com/
 Cooperaton project to create 3D CAD data for manufacturing frames from aluminium alloy fror application as facade of building. (see <a href="https://github.com/StingrayCZ/Building-Facade-Superstructure/blob/master/README.md"> here</a>)
 
 <p float="left">
-  <img src="/Folder/Facade.png" width="400" /> 
+  <img src="/Folder/Facade.png" width="600" /> 
 </p>
 
 ## Information and Communications Technology section
