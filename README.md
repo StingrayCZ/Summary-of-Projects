@@ -16,6 +16,10 @@ Proposal layout of the manufacturing complex (assembly lines, offices, workshops
 ### Bench for Testing Component (Erba Lachema, 2019 - 2020)
 This bench is used for testing and adjust subassemblies.  (see <a href="https://github.com/StingrayCZ/Bench-for-Testing-Component/blob/master/README.md"> here</a>)
 
+<p float="left">
+  <img src="/Folder/Bench.png" width="400" /> 
+</p>
+
 ### Spoiler for the Lotus car (MCAE Systems, 2018)
 Preparing and protyping of spoiler. Main purpose of this project was progation of 3D technologies capabilities. (see <a href="https://github.com/StingrayCZ/Spoiler-for-Lotus-car/blob/master/README.md"> here</a>)
 
