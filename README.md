@@ -4,9 +4,7 @@ This repository contains briefly overwiev of some projetcts what I have done ove
 ## Mechanical engineering section
 
 ### Special Industrial Rack (Erba Lachema, 2019)
-<p float="left">
-  <img src="/Pictures (general)/PostApplication/1.png" width="800" /> 
-<p float="
+
 
 ### Special Industrial Rack (Erba Lachema, 2019)
 
