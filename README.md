@@ -13,6 +13,10 @@ The special rack for storing parts from metal sheets. (see <a href="https://gith
 ### Medical Instrument Assembly Building (Erba Lachema, 2019 - 2020)
 Proposal layout of the manufacturing complex (assembly lines, offices, workshops, cloakrooms, warehouse). (see <a href="https://github.com/StingrayCZ/Medical-Instrument-Assembly-Building/blob/master/README.md"> here</a>)
 
+<p float="left">
+  <img src="/Folder/VAB.png" width="400" /> 
+</p>
+
 ### Bench for Testing Component (Erba Lachema, 2019 - 2020)
 This bench is used for testing and adjust subassemblies.  (see <a href="https://github.com/StingrayCZ/Bench-for-Testing-Component/blob/master/README.md"> here</a>)
 
@@ -31,6 +35,10 @@ Welding assembly of the airport truck vehicle. (see <a href="https://github.com/
 
 ### Building Facade Superstructure (Solid Vision/Sipral, 2015)
 Cooperaton project to create 3D CAD data for manufacturing frames from aluminium alloy fror application as facade of building. (see <a href="https://github.com/StingrayCZ/Building-Facade-Superstructure/blob/master/README.md"> here</a>)
+
+<p float="left">
+  <img src="/Folder/Facade.png" width="400" /> 
+</p>
 
 ## Information and Communications Technology section
 Where I would like to introduce my bachelor thehsis. My first larger programming project. This project is **still uncomplided but active** and will be **finished to end of August 2020**.
