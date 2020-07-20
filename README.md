@@ -53,7 +53,7 @@ Cooperaton project to create 3D CAD data for manufacturing frames from aluminium
 </p>
 
 ## Information and Communications Technology section
-Where I would like to introduce my bachelor thehsis. My first larger programming project. This project is **still incomplete but active** and will be **finished to end of August 2020**.
+Where I would like to introduce my bachelor thehsis. My first larger programming project. This project is **still incompleted but active** and will be **finished to end of August 2020**.
 
 The main task of my thesis (see <a href="https://github.com/StingrayCZ/Summary-of-Projects/blob/master/Folder/Thesis%20862020.pdf"> here</a>) is proposal the security of communication in the IoT wireless network. This network is designated for small lowpower devices, like a sensors and trivial actuators. The introduced version is just concept. Although that algorithm is full-operational, provided security level is not suitable for real-life application.
 
