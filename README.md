@@ -17,6 +17,13 @@ Proposal layout of the manufacturing complex (assembly lines, offices, workshops
   <img src="/Folder/VAB.png" width="600" /> 
 </p>
 
+### Assembly Instructions for Workers (Erba Lachema, 2019 - 2020) [SolidWorks]
+
+<p float="left">
+  <img src="/Folder/Man_A.png" width="400" /> 
+  <img src="/Folder/Man_B.png" width="400" /> 
+</p>
+
 ### Bench for Testing Component (Erba Lachema, 2019 - 2020) [SolidWorks]
 This bench is used for testing and adjust subassemblies.  (click <a href="https://github.com/StingrayCZ/Bench-for-Testing-Component/blob/master/README.md"> here</a> for more details)
 
