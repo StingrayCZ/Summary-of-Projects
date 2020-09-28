@@ -17,8 +17,8 @@ Proposal layout of the manufacturing complex (assembly lines, offices, workshops
   <img src="/Folder/VAB.png" width="600" /> 
 </p>
 
-### Assembly Instructions for Workers (Erba Lachema, 2019 - 2020) [SolidWorks]
-
+### Assembly Instructions for Workers (Erba Lachema, 2019 - 2020) [SolidWorks/MS Word]
+Demonstration of the form of assembly instructions.
 <p float="left">
   <img src="/Folder/Man_A.png" width="400" /> 
   <img src="/Folder/Man_B.png" width="400" /> 
