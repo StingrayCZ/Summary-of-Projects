@@ -17,8 +17,8 @@ Proposal layout of the manufacturing complex (assembly lines, offices, workshops
   <img src="/Folder/VAB.png" width="600" /> 
 </p>
 
-### Assembly Instructions for Workers (Erba Lachema, 2019 - 2020) [SolidWorks/MS Word]
-Demonstration of the form of assembly instructions.
+### Assembly Instructions for Workers (Erba Lachema, 2019 - 2020) [SolidWorks]
+
 <p float="left">
   <img src="/Folder/Man_A.png" width="400" /> 
   <img src="/Folder/Man_B.png" width="400" /> 
@@ -60,9 +60,10 @@ Cooperaton project to create 3D CAD data for manufacturing frames from aluminium
 </p>
 
 ## Information and Communications Technology section
-Where I would like to introduce my bachelor thehsis. My first larger programming project. This project is **still incompleted but active** and will be **finished to end of August 2020**.
+Where I would like to introduce my bachelor thehsis. My first larger programming project. This project is **still incompleted but active** and will be **finished to end of August 2020**. 
+* Refresh from Sep 2020, Thesis has been successfully defended (see <a href="https://www.vutbr.cz/studenti/zav-prace?zp_id=129386 "> here</a>)
 
-The main task of my thesis (see <a href="https://github.com/StingrayCZ/Summary-of-Projects/blob/master/Folder/Thesis%20862020.pdf"> here</a>) is proposal the security of communication in the IoT wireless network. This network is designated for small lowpower devices, like a sensors and trivial actuators. The introduced version is just concept. Although that algorithm is full-operational, provided security level is not suitable for real-life application.
+The main task of my thesis (see <a href="https://www.vutbr.cz/www_base/zav_prace_soubor_verejne.php?file_id=216976"> here</a>) is proposal the security of communication in the IoT wireless network. This network is designated for small lowpower devices, like a sensors and trivial actuators. The introduced version is just concept. Although that algorithm is full-operational, provided security level is not suitable for real-life application.
 
 <p float="left">
   <img src="/Folder/FlowPic.png" width="800" /> 
