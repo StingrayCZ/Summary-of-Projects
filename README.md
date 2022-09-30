@@ -6,7 +6,7 @@
 
 ### Amtek,.s.r.o (2020 - 2022)
 
-During my contract at <a href="https://www.amtek.cz/"> AMTEk, s.r.o.</a>, the main task of my position was designing of security fences from aluminum profiles. Each fence layout is based on the customer's specifications and it is fitted with reinforcements, doors or active-electronic devices (sensors, electronic locks, cameras, security lights, etc.) as needed. Thanks to the variability of the MayCad profile system it is possible to quickly and cheaply create machine frames and thus replace the need for the production of specific parts and welding these parts into larger asemblies. (click <a href="https://github.com/StingrayCZ/Amtek-Projects#readme"> here</a> for see more proejects)
+During my contract at <a href="https://www.amtek.cz/"> AMTEk, s.r.o.</a>, the main task of my position was designing of security fences from aluminum profiles. Each fence layout is based on the customer's specifications and it is fitted with reinforcements, doors or active-electronic devices (sensors, electronic locks, cameras, security lights, etc.) as needed. Thanks to the variability of the MayCad profile system it is possible to quickly and cheaply create machine frames and thus replace the need for the production of specific parts and welding these parts into larger asemblies. (click <a href="https://github.com/StingrayCZ/Amtek-Projects#readme"> here</a> for see more projects)
 
 <p float="left">
   <img src="./Folder/Oplocenka_archiv_b.png" width="400" /> <img src="./Folder/Panorama.png" width="403" /> 
