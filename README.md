@@ -29,6 +29,7 @@ Proposal layout of the manufacturing complex (assembly lines, offices, workshops
 </p>
 
 ### Assembly Instructions for Workers (Erba Lachema, 2019 - 2020) [SolidWorks]
+An example of assembly manual for assembly. The goal was to create an understandable and simple form of interpretation.
 
 <p float="left">
   <img src="./Folder/Man_A.png" width="400" /> 
