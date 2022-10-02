@@ -25,14 +25,8 @@ The special rack for storing parts from metal sheets. (click <a href="https://gi
 Proposal layout of the manufacturing complex (assembly lines, offices, workshops, cloakrooms, warehouse). (click <a href="https://github.com/StingrayCZ/Medical-Instrument-Assembly-Building/blob/master/README.md"> here</a> for more details)
 
 <p float="left">
-  <img src="./Folder/FlowPic.png" width="600" /> 
+  <img src="./Folder/VAB.png" width="600" />
 </p>
-
-
-<img src="./Folder/Man_A.png" width="400" /> 
-<img src="./Folder/Man_A.png" width="400" /> 
-
-![](Folder/FlowPic.png)
 
 ### Assembly Instructions for Workers (Erba Lachema, 2019 - 2020) [SolidWorks]
 
