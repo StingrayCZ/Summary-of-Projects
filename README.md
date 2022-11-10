@@ -13,6 +13,14 @@ During my contract at <a href="https://www.amtek.cz/"> AMTEk, s.r.o.</a>, the ma
 </p>
 
 
+### Beekeeping - my leisure activity (2021 - present)
+
+
+This chapter does not describe any work experience. There you can find a brief presentation of the step-by-step construction of my bee hobby farm. Click <a href="https://github.com/StingrayCZ/Bee-Farm/tree/EN"> here</a> for see more details.
+
+<p float="left">
+  <img src="./Folder/All.png" width="800" /> 
+</p>
 
 ### Special Industrial Rack (Erba Lachema, 2019 - 2020) [SolidWorks]
 The special rack for storing parts from metal sheets. (click <a href="https://github.com/StingrayCZ/Special-Industrial-Rack/blob/master/README.md"> here</a> for more details)
